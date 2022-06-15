@@ -4,6 +4,7 @@ import Header from "./Components/Header/Header";
 import RecommendedVideos from "./Components/RecommendedVideos/RecommendedVideos";
 import Sidebar from "./Components/Sidebar/Sidebar";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import SearchPage from "./Components/SearchPage/SearchPage";
 
 function App() {
   return (
@@ -13,13 +14,18 @@ function App() {
         <Routes>
           <Route
             path="/search/:searchTerm"
-            element={[<h1>Search Page</h1>]}
+            element={[
+              <div className="app__page">
+                <Sidebar />
+                <SearchPage />
+              </div>,
+            ]}
           ></Route>
           <Route
             path="/"
             element={[
               <div className="app__page">
-                <Sidebar />,
+                <Sidebar />
                 <RecommendedVideos />
               </div>,
             ]}
