@@ -16,12 +16,12 @@ function RecommendedVideos() {
           image="https://i.ytimg.com/vi/NT299zIk2JY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBV8F8lciYfqvqqejRzPIFjS6PpUQ"
         />
         <VideoCard
-          title="Sıfırdan Yazılıma Başlayıp 5 Ayda Amerikadaki bir firmaya ortak olmak !"
-          views="7,1K views"
-          timestamp="11 months ago"
-          channelImage="https://yt3.ggpht.com/ytc/AKedOLTRVZ9lxomCL2Pgs0L-HG_Pk8wLGp1xjJVaCa3D=s384-k-b48-no-cc-rp-mo"
-          channel="Coder in Chief"
-          image="https://i.ytimg.com/an_webp/Zy1k9KuSPoQ/mqdefault_6s.webp?du=3000&sqp=CLz2pZUG&rs=AOn4CLD5YQexWDIlmGTEeUckFiFYV7S5CQ"
+          title="Solo Camping in the Australian Bush with my Dog [ Steak on campfire, Car: Jeep Wrangler ] SoC ep19"
+          views="193,5K views"
+          timestamp="8 months ago"
+          channelImage="https://yt3.ggpht.com/ytc/AKedOLThNfNaqCtbVTLmTK8ZXMBL_15YqtJYF-hMjSfJKQ=s48-c-k-c0x00ffffff-no-rj"
+          channel="Go4x4"
+          image="https://i.ytimg.com/vi/RyZD01ZUu3E/maxresdefault.jpg"
         />
         <VideoCard
           title="How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)"
@@ -56,12 +56,12 @@ function RecommendedVideos() {
           image="https://i.ytimg.com/vi/O6Au1Qd-zN0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSUhHW5xzZhKrW8wNNbSOlQMXJHg"
         />
         <VideoCard
-          title="mor ve ötesi - Bir Derdim Var (Official Video)"
+          title="mor ve ötesi - Bir Derdim Var (Canlı Senfonik)"
           views="62,4M views"
           timestamp="8 yeras ago"
           channelImage="https://yt3.ggpht.com/KhBIL7Cynw55XuObhHA_NUyhQ8BU9Hqcqwcr53hJbUyQiioXxdJQTvwp1pDGI2USfcbm_RfOBQ=s48-c-k-c0x00ffffff-no-nd-rj"
           channel="mor ve ötesi"
-          image="https://i.ytimg.com/an_webp/7RW8n4iXZbA/mqdefault_6s.webp?du=3000&sqp=CJCGppUG&rs=AOn4CLAtjvw3eBYFin6ctd32-Z0mZveT4Q"
+          image="https://i.ytimg.com/vi/oaDoNRCD21U/maxresdefault.jpg"
         />
         <VideoCard
           title="maNga - We Could Be The Same (Turkey) Live 2010 Eurovision Song Contest"
@@ -69,7 +69,7 @@ function RecommendedVideos() {
           timestamp="6 years ago"
           channelImage="https://yt3.ggpht.com/PriKZi0oRRkvYVhcbk8NFRGe9McIXtd0SvoT6yWB2_a9Z08nwekbwsr3ITMqZKl6Jh5w4vSVm3o=s48-c-k-c0x00ffffff-no-rj"
           channel="Eurovision Song Contest"
-          image="https://i.ytimg.com/an_webp/HB_GnnhNz-8/mqdefault_6s.webp?du=3000&sqp=CO-LppUG&rs=AOn4CLBdrSpjDp02RsKWVT2ezG5FGOW5Qw"
+          image="https://i.pinimg.com/originals/38/15/55/38155535a5d876d62501d071fc9a043d.jpg"
         />
       </div>
     </div>
