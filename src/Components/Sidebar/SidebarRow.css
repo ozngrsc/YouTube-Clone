@@ -40,3 +40,9 @@
 .sidebarRow.selected > .sidebarRow__title {
     font-weight: bold;
 }
+
+@media only screen and (max-width: 415px) {
+    .sidebarRow__title {
+      display: none;
+    }
+  }

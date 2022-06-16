@@ -25,3 +25,24 @@
     align-items: center;
     justify-content: space-between;
 }
+
+@media only screen and (max-width: 820px) {
+    .channelRow {
+     display: flex;
+     flex-direction: column;
+    }
+
+    .channelRow__logo {
+        display: flex !important;
+        align-items: flex-start !important;
+    }
+   
+    .channelRow__text > h4 {
+        justify-content: start;
+    } 
+
+    .channelRow__virifiedIcon {
+        margin-left: 20px;
+    }
+
+}

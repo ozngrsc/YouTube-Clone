@@ -14,7 +14,7 @@ function Header() {
   return (
     <div className="header">
       <div className="header__left">
-        <MenuIcon />
+        <MenuIcon className="header__menuIcon" />
         <Link to="/">
           <img
             className="header__logo"
@@ -25,6 +25,7 @@ function Header() {
       </div>
       <div className="header__input">
         <input
+          className="headerInput__input"
           onChange={(e) => setInputSearch(e.target.value)}
           value={inputSearch}
           placeholder="Search"
